@@ -3,7 +3,7 @@
 ### 🎓 About Me
 - **University:** VIT Bhopal University
 - **Branch:** Integrated M.Tech in Cyber Security
-- **Year:** First Year (Batch of 2024-29)
+- **Year:** First Year (Batch of 2025-30)
 - **Role:** Student Digital Ambassador (Digital Literacy Project)
 
 ### 🛡️ Cyber Security Interests
